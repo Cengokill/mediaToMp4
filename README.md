@@ -20,7 +20,7 @@ This `.bat` script automatically converts all `.media` files in a folder to `.mp
 
 ## How to Use
 
-1. **Download the `convert_media_to_mp4.bat` file** (or create a `.bat` file with the provided script).  
+1. **Download the `MediaToMp4Converter.bat` file** (or create a `.bat` file with the provided script).  
 2. **Run the script** by double-clicking it.  
 3. **Enter the folder path** containing the `.media` files.  
 4. The conversion will start automatically!  
