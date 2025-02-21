@@ -1,5 +1,5 @@
 # Media to MP4 Converter <img style="display:inline-flex;width:90px;height:90px;vertical-align: middle;" src="https://github.com/user-attachments/assets/f778c19b-6a1c-4f5a-832e-a2a2fdfc701b">
-This `.bat` script automatically converts all `.media` files in a folder to `.mp4` using **FFmpeg**.
+This `.bat` script automatically converts all `.media` files in a folder to `.mp4` using **FFmpeg**. Works only on Windows systems.
 
 ## Installing FFmpeg
 
