@@ -1,6 +1,6 @@
 # Contributing to this project
 
-We welcome contributions from everyone!
+I welcome contributions from everyone!
 
 ## How to contribute
 
